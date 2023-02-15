@@ -26,4 +26,6 @@ Historical references for SuperAdobe:
  - http://www.earthbagbuilding.com/Testing/superadobe.htm
  - http://www.greenhomebuilding.com/articles/earthbaghistory.htm
  - Evaluating Earthen mortarts for rendering: https://craterre.hypotheses.org/files/2018/05/TERRA-2016_Th-4_Art-416_Santos.pdf
+ - https://whc.unesco.org/en/list/192/
+ - https://whc.unesco.org/en/earthen-architecture/
 
