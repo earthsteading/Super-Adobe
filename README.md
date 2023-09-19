@@ -1,8 +1,16 @@
 # SuperAdobe
-Creation of a Performance Solution for Super Adobe as an Australian CodeMark product
+Creation of a Performance Solution for Super Adobe (Australian clay mixed with cememnt stabiliser) 
 
+Historical references for SuperAdobe:
+ - http://www.earthbagbuilding.com/Testing/superadobe.htm
+ - http://www.greenhomebuilding.com/articles/earthbaghistory.htm
+ - Evaluating Earthen mortarts for rendering: https://craterre.hypotheses.org/files/2018/05/TERRA-2016_Th-4_Art-416_Santos.pdf
+ - https://whc.unesco.org/en/list/192/
+ - https://whc.unesco.org/en/earthen-architecture/
+ - https://whc.unesco.org/en/list/192/
+ - https://whc.unesco.org/en/earthen-architecture/
 
-Process for creating a ABCB CodeMark product:
+## Process for creating a validated performance solution.
 
   - The ABCB's CodeMark Certification Scheme is a voluntary third-party certification scheme for verifying that a building product meets the nominated requirements of the Building Code of Australia (BCA) as defined by the National Construction Code (NCC). 
   - The CodeMark certificate demonstrates compliance against the NCC's Deemed-to-Satisfy (DTS) Provisions, which attests to the compliance of a building product against the 'Performance Requirements' of the NCC. 
@@ -14,7 +22,7 @@ Process for creating a ABCB CodeMark product:
   - The CodeMark certification process involved ongoing validation via: audits of the manufacturing process and facility, audits of critical components, installation and construction site audits, review of technical documentation by an Unrestricted Building Certifier (UBC), supplier declarations, supply control chains and regulatory oversight by the ABCB and JAS-ANZ for Australasia.
   - CodeMark products are evaluated against 'Cewrtificate of Conformity' for various categories, e.g. structural, thermal, weatherability, fire perofmrance, etc.
 
-The process for obtainin a CodeMark Certificate:
+The process for a performance solution validation
 
  1. Performance Based Design Brief
  2. Analysis of the product against the specified criteria
@@ -22,10 +30,5 @@ The process for obtainin a CodeMark Certificate:
  4. Final report declaring which NCC requirements the CodeMark product has achieved.
  5. Registraiton of the CodeMark product by the Schema Accreditation Body (JAS-ANZ)
 
-Historical references for SuperAdobe:
- - http://www.earthbagbuilding.com/Testing/superadobe.htm
- - http://www.greenhomebuilding.com/articles/earthbaghistory.htm
- - Evaluating Earthen mortarts for rendering: https://craterre.hypotheses.org/files/2018/05/TERRA-2016_Th-4_Art-416_Santos.pdf
- - https://whc.unesco.org/en/list/192/
- - https://whc.unesco.org/en/earthen-architecture/
+
 
